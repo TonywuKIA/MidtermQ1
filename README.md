@@ -16,7 +16,7 @@ Open the project in Android Studio and run on emulator or device.
 ## AI Usage
 I used ChatGPT to review the implementation and confirm correct usage of rememberSaveable and state handling, and logistic in the specific methods.
 
-Screen shots:
+## Screen shots:
 
 
 <img width="393" height="834" alt="image" src="https://github.com/user-attachments/assets/957d42bb-081e-4469-b835-317180994511" />
